@@ -17,8 +17,7 @@ validation_scripts/
 ├── coco_validation.py
 ├── dataset_completeness.py
 ├── duplicate_detector.py
-├── polygon_validation.py
-└── README.md
+└── polygon_validation.py
 ```
 
 ---
